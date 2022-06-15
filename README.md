@@ -4,14 +4,15 @@ BoomBikes has recently suffered considerable dips in their revenues due to the o
     
 The company wants to know:
 
-    Which variables are significant in predicting the demand for shared bikes
-    How well those variables describe the bike demands
+1. Which variables are significant in predicting the demand for shared bikes
+2. How well those variables describe the bike demands
 
 
 ## Conclusions
 - Weather conditions matters
 - Year on year growth is observed
 - temparature plays a key role for more bikes being rented
+- Adding more bikes on holidays will increase the revenue, during weekdays less bikes can be placed to avoid maintenance issues.
 
 
 ## Technologies Used
