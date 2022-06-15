@@ -1,4 +1,5 @@
-# Problem Statement: BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. Company want to understand the factors affecting the demand for these shared bikes in the American market. 
+# Problem Statement: 
+BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. Company want to understand the factors affecting the demand for these shared bikes in the American market. 
 
     
 The company wants to know:
